@@ -1,4 +1,4 @@
---Cleaning data of Used German Car for sale on Ebay
+--Cleaning data of Used German Car for sale on eBay
 
 
 SELECT * FROM auto a 
